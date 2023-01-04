@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Uthmanic HAFS Regular';
+  src: url('/fonts/KFGQPC Uthmanic Script HAFS Regular.otf')
+    format('opentype');
+}
